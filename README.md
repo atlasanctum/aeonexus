@@ -1,8 +1,3 @@
-Here’s a **next-level GitHub Profile README**—sleek, animated, and built to feel alive. Copy, tweak, and let it speak your vision loudly.
-
----
-
-````markdown
 <h1 align="center">🌍 Aeonexus</h1>
 <h3 align="center">Engineering a Sustainable Future Through AI × Blockchain × Human Consciousness</h3>
 
@@ -148,10 +143,4 @@ git checkout -b feature/innovation
 
 ---
 
-If you want to go even harder, I can upgrade this with:
-
-* live **API-powered metrics (carbon impact simulation 👀)**
-* a **custom animated banner**
-* or a **dark/light adaptive version that shifts like day and night**
-
-Just say the word.
+Renamed to Genesis 
